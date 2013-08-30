@@ -1,0 +1,33 @@
+Imagine you are sitting on the beach by the azure sea, the sun gently warms, everything is fine ... there is simply unimaginable. Suddenly wanted a glass of cool mojito and a small sandwich. The bar counter is far away from you,
+and the need to go on the hot sand. And do you think that is stronger thirst or lazy :).
+Our decision to get rid of these problems, all you have to do it from your tablet or mobile phone to choose something more like: a drink, a burger or ... strawberry ice cream (by the sea,
+it's a great idea!) and place an order, and after a while amusing device will arrive with your order and give it right in his hands. It's great! No need to communicate with servers
+No need to call them or screaming myself to go to the bar drains! It's simple - select, confirm, and wait ... quite a bit.
+
+The advantages are obvious solutions, you get a ready-made network for deployment in a cafe with a large area, such as a large beach café that serves a large space ( some hotels ).
+The main advantage is the absence of the need for waiters, because it so happens that even the best cafe with excellent food can lose visitors because of the waiters, who are doing their job poorly. 
+People need to look for, train, manage, motivate, and so on. These drones with no problems, they are robots and do clean their work. They just could kindly talk with customers, and never rude.
+Customers have the opportunity to speak directly with the manager through a web camera on the drone, which will significantly increase customer loyalty and sympathy.
+Other advantages, it is fast delivery and execution of orders, order instantly is flagged for place in the kitchen, there are no mistakes and forgotten items in the order. Drones know exactly routes, and once the order is ready,
+it already takes the drone, and delivers to the client. There is no extra cost, speed drone faster than a human, hence the minimum waiting time for their orders.
+
+The system consists of a main server located at the restaurant. Control panels, in the form of tablets that use cooks and bartenders. On the territory of the cafe (restaurant)
+network is available wi-fi, connecting to that, visitors can from their mobile device go to the portal and sign in the restaurant there. The authorization process is simple,
+when a visitor arrives at the cafe, he is issued a QR code, he chooses a comfortable deck chair for him, which also existents QR code. Next, the cafe portal user reads sequentially 2 QR codes
+your code and sun beds, and get access to the restaurant's menu. A visitor makes a selection from the menu, confirms the order, the order comes chefs in the general queue, ready for the company's orders in a special container
+and is exposed to the delivery platform. Next, the system selects a free drone and gives command to deliver the platform to a particular visitor loungers. Drone brings order to the customer and returned to base.
+Payment for the order and the use of other services can be done with a credit card through the application, or when leaving the cafe.
+
+The total embedded solution for restaurants, consisting of:
+1. Database for storing and charging drones (modular base, expandable depending on the number of drones)
+2. The platform for the delivery of orders
+3. 2 touch panel(tablets) with attachment order administration: Kitchen and Bar. Just additionally have applications for tablets.
+4. Co-existing materials (containers, cameras, etc.)
+
+The general solution is based on writing a client-server application to manage the restaurant, as well as the application (firmware) for droids.
+
+The development of solutions planned in several stages:
+1) Writing a client-server application, the adaptation of existing models of drones and writing firmware for them
+2) Design and launch of additional modules: base drones delivery platforms, containers, and so on.
+3) Design and create your own specialized model drone to deliver a more severe and complex shipments
+4) The automatic preparation and dispensing beverages and simple snacks to the site of delivery.
